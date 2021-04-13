@@ -9,3 +9,4 @@ While it is not necessary for you to fork this repository or download the static
 |   | Run | View |
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11XFFmBzSiRO79PGP0UkE_spgIeJkQMLf?usp=sharing) |
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1dIucPjEG_MzbJMkfz24dOwWakcBNAhEJ?usp=sharing) |
