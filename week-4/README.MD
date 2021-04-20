@@ -8,7 +8,7 @@ While it is not necessary for you to fork this repository or download the static
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1vB_IGghC4Qz5xQb1CNStODhMhYycot6J?usp=sharing) | 
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/128veeIhjiQPIAvGa8URdMF9reO_ToCCz?usp=sharing) | 
 
 
 
