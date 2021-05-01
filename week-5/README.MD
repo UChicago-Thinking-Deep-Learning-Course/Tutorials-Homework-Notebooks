@@ -9,7 +9,7 @@ While it is not necessary for you to fork this repository or download the static
 |   | Run | View |
 | - | --- | ---- |
 | Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1HtofXPXcgdb38rEPofCyBATxOLKOxb6p?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-5/TDL5_1_deep_graphs_networks_manifolds.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/drive/1Z36yvA0qER5SA9HKJtaTw2-lqa9ylj_5?usp=sharing)] | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-5/TDL5_2_deep_knowledge_graph_categorical_tabular.ipynb)
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1Z36yvA0qER5SA9HKJtaTw2-lqa9ylj_5?usp=sharing)] | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-5/TDL5_2_deep_knowledge_graph_categorical_tabular.ipynb)
 
 
 
