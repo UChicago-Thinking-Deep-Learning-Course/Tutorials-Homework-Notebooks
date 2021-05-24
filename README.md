@@ -2,6 +2,11 @@
 
 This repository has the tutorial notebooks which you will be using for your HW. The notebooks will largely be run on COLAB.
 
+Notebook author: Bhargav Srinviasa Desikan
+Notebook editor: James Evans
+Notebook reviewer: Likun Cao
+
+
 Week 1 -  Introduction to Machine Learning and Deep Learning
 
 Week 2 - Everything as Data - Representing, Measuring, Integrating, Aligning
