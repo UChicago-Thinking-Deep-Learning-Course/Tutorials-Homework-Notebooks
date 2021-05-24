@@ -2,11 +2,11 @@
 
 This repository has the tutorial notebooks which you will be using for your HW. The notebooks will largely be run on COLAB.
 
-**Notebook author: Bhargav Srinviasa Desikan**
+**Notebook author: [Bhargav Srinviasa Desikan](https://www.knowledgelab.org/people/detail/bhargav_srinivasa_desikan/)**
 
-**Notebook editor: James Evans**
+**Notebook editor: [James Evans](https://www.knowledgelab.org/people/detail/james_a_evans/)**
 
-**Notebook reviewer: Likun Cao**
+**Notebook reviewer: [Likun Cao](https://www.knowledgelab.org/people/detail/likun_cao/)**
 
 
 
