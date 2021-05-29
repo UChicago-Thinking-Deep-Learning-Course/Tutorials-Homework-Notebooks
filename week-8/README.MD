@@ -1,4 +1,4 @@
-# Week 7 - Sampling, Annotations, Active Learning, Adaptive Experimentation, and Continuous Learning
+# Week 8 - Sampling, Annotations, Active Learning, Adaptive Experimentation, and Continuous Learning
 
 Below you have links to a Colab version of the notebook, where you are encouraged to do your homework. Once you open the file on Colab, make a copy of it to your own drive. Then, rename the colab notebook such that you remove "student_copy" in the beginning of the file name to your CNET id. This is the file which you will be submitting as your HW. 
 
