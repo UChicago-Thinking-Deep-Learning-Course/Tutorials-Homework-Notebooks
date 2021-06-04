@@ -4,12 +4,12 @@ Below you have links to a Colab version of the notebook, where you are encourage
 
 While it is not necessary for you to fork this repository or download the static notebooks present here, it is advised to do so so that you have a local copy as well. You can also view the static notebooks on nbviewer if you are just browsing content.
 
-## Student notebooks (EARLY RELEASE)
+## Student notebooks (FINAL RELEASE)
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1JDUzvZvSJrqsKtPdohB4g3__cNKdZ7L9?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-8/TDL8_1_sampling_human_learning.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1McQn8e1lVaGj79GcJSjBktjHWzq6QL7v?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-8/TDL_8_2_active_learning.ipynb)
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1NXsztRnYEUYumDXD4vFB6Nfpuo_C-6fQ?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-8/TDL8_1_sampling_human_learning.ipynb) |
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1VMabjmBWvXv5neikJxr3oA3UuiksycvB?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://nbviewer.jupyter.org/github/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-8/TDL_8_2_active_learning.ipynb)
 
 
 
