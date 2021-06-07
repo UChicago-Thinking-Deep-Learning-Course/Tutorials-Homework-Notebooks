@@ -8,8 +8,8 @@ While it is not necessary for you to fork this repository or download the static
 
 |   | Run | View |
 | - | --- | ---- |
-| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/11b0H-HzvHtTnsoM-llAFObzWzLKWFW1P?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-9/TDL_9_1_joint_integrated_multi_modal_deep_learning.ipynb) |
-| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1C9CxZOKBQMPKGshFGTzEMdjdDRc4b3Gf?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-9/TDL_9_2_digital_doubles.ipynb)
+| Tutorial 1 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1mv1jWk1Qe2HMKq5L9mmJfh9B020r-7-k?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-9/TDL_9_1_joint_integrated_multi_modal_deep_learning.ipynb) |
+| Tutorial 2 | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/15YEmMytlavMpsFXy_wnLn2DYl5e2Rv2r?usp=sharing) | [![View the notebook](https://img.shields.io/badge/render-nbviewer-orange.svg)](https://github.com/UChicago-Thinking-Deep-Learning-Course/Tutorials-Homework-Notebooks/blob/main/week-9/TDL_9_2_digital_doubles.ipynb)
 
 
 
